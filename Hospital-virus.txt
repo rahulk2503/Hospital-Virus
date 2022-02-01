@@ -1,0 +1,18 @@
+patient Information inter in Hospital Time 
+patient name =>rahul kailas patil
+patient city =>At post sakare
+patient mo.number =>7030498878
+
+Hospital Bill patient name = >rahul kailas patil
+patient city = >At post sakare
+patient mo.number = >7030498878
+condition or disease patient = >Blood cancer
+normal test charge = >0Rs
+critical test charge = >5000Rs
+X-ray charge = >0Rs
+Surgery charge = >0Rs
+Bed Charge 8000Rs
+Doctor charges = > 3000Rs
+Medicine Charge = > 70000Rs
+Total Bill = >286000Rs
+Thanks for visit 
